@@ -1,0 +1,11 @@
+com\airopuerto\vuelos\ReservaResponse.class
+com\vuelos\api\Vuelo.class
+com\airopuerto\vuelos\ReservaRequest.class
+com\vuelos\api\Configuracion.class
+com\vuelos\api\ApiApplication.class
+com\vuelos\api\Repositorio.class
+com\airopuerto\vuelos\EstadoRequest.class
+com\vuelos\api\VueloEndpoint.class
+com\airopuerto\vuelos\ObjectFactory.class
+com\airopuerto\vuelos\package-info.class
+com\airopuerto\vuelos\EstadoResponse.class

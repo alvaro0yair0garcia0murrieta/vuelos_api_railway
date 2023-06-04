@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="3.0" xmlns="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2023.06.04 a las 09:10:41 AM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://airopuerto.com/vuelos">
+    <schemaBindings map="false">
+      <package name="com.airopuerto.vuelos"/>
+    </schemaBindings>
+    <bindings scd="tns:EstadoRequest">
+      <class ref="com.airopuerto.vuelos.EstadoRequest"/>
+    </bindings>
+    <bindings scd="tns:EstadoResponse">
+      <class ref="com.airopuerto.vuelos.EstadoResponse"/>
+    </bindings>
+    <bindings scd="tns:ReservaRequest">
+      <class ref="com.airopuerto.vuelos.ReservaRequest"/>
+    </bindings>
+    <bindings scd="tns:ReservaResponse">
+      <class ref="com.airopuerto.vuelos.ReservaResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
